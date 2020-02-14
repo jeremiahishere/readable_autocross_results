@@ -1,0 +1,314 @@
+rank,class_pos,class,car_number,driver,vehicle,tire,time,correction_factor,corrected_time,diff_from_first,corrected_diff_from_first,rtp_points
+1,1,EM,43,Jeff Kiesel,2014 KFR Turbo Sprite,Avon,43.784,0.894,39.143,0.000,0.000,10000
+2,1,FM,94,Zak Kiesel,2015 Raptor F-500,Hoosier,43.449,0.907,39.408,0.265,0.265,9933
+3,1,STR,198,David Whitener,2016 Mazda MX5,Multi,47.818,0.827,39.545,0.137,0.403,9898
+4,1,CSP,97,Billy Davis,1999 Mazda Miata,Hoosier,46.188,0.857,39.583,0.038,0.440,9889
+5,1,ESP,146,Jeff Wong,2017 Chevy Camaro SS,Hoosier,47.551,0.836,39.753,0.170,0.610,9847
+6,2,CSP,197,Matthew Hodges,1999 Mazda Miata,Hoosier,46.477,0.857,39.831,0.078,0.688,9827
+7,2,STR,175,Brian Karwan,2016 Mazda MX-5 Miata,Multi,48.207,0.827,39.867,0.036,0.724,9818
+8,1,DM,99,Mark Huffman,1965 Lotus Elan,Hoosier,44.572,0.895,39.892,0.025,0.749,9812
+9,1,KM,33,Larry MacLeod,2014 Mod-Moto Tonykart,MG,42.912,0.930,39.908,0.016,0.765,9808
+10,3,CSP,98,Todd Cochran,2001 Mazda Miata,Hoosier,46.720,0.857,40.039,0.131,0.896,9776
+11,1,SSR,141,Sam Strano,2018 Chevy Corvette GS,Hoosier,47.509,0.843,40.050,0.011,0.907,9773
+12,1,STX,89,Kyle Herbst,2016 Scion FRS,Bridgestone,49.149,0.815,40.056,0.006,0.914,9772
+13,1,DS,53,Mike Leeder,2019 Honda Civic Type-R,Bridgestone,50.149,0.800,40.119,0.063,0.976,9757
+14,2,FM,199,Jason Hobbs,1999 Novakar J9,Hoosier,44.284,0.907,40.166,0.046,1.023,9745
+15,1,FS,199,Jeff Cashmore,2011 BMWM3,Bridgestone,50.038,0.803,40.181,0.015,1.038,9742
+16,1,ES,199,Charles Mathews,1999 Mazda Miata,BFGoodrich,50.934,0.789,40.187,0.006,1.044,9740
+17,3,FM,194,Michelle Quinn,1995 KBS MK7,Hoosier,44.323,0.907,40.201,0.014,1.058,9737
+18,1,GS,97,Ron Williams,2019 Honda Civic Si,Bridgestone,51.031,0.788,40.212,0.011,1.070,9734
+19,1,BS,87,Jay Balducci,2016 BMWM2,Multi,49.663,0.810,40.227,0.015,1.084,9730
+20,1,STS,195,Adam Barber,1988 Honda CRX,Bridgestone,49.621,0.811,40.243,0.016,1.100,9727
+21,1,BM,93,Zachary Moore,1977 LeGrand MK18,Avon,41.928,0.960,40.251,0.008,1.108,9725
+22,2,KM,94,Tom Harrington,2018 CRG Kart RdRbl,MG,43.346,0.930,40.312,0.061,1.169,9710
+23,3,STR,97,Josh Luster,2017 Mazda MX-5 Miata,Bridgestone,48.781,0.827,40.342,0.030,1.199,9703
+24,2,DS,21,Brandon Dan,2018 Honda Civic Type R,Bridgestone,50.431,0.800,40.345,0.003,1.202,9702
+25,1,SM,74,Craig Wilcox,1999 Honda Civic,Hoosier,47.205,0.855,40.360,0.015,1.217,9698
+26,1,SS,92,Doug Rowse,2017 Chevy Corvette,Bridgestone,49.166,0.821,40.365,0.005,1.222,9697
+27,2,SS,51,James Yom,2007 Porsche GT3,BFGoodrich,49.178,0.821,40.375,0.010,1.232,9695
+28,4,STR,98,Kim Whitener,2016 Mazda MX5,Multi,48.845,0.827,40.395,0.020,1.252,9690
+29,5,STR,197,Mark Shrivastava,2017 Mazda MX5,Bridgestone,48.850,0.827,40.399,0.004,1.256,9689
+30,2,SSR,89,Matthew Braun,2004 Chevy Corvette Z06,Multi,47.923,0.843,40.399,0.000,1.256,9689
+31,2,SM,59,John Vitamvas,2005 Mazda RX-8 2.5T,Hoosier,47.253,0.855,40.401,0.002,1.258,9689
+32,2,BS,80,Jeremy Foley,2011 BMW1M,Multi,49.879,0.810,40.402,0.001,1.259,9688
+33,2,ES,97,Bartek Borowski,1999 Mazda Miata,Multi,51.210,0.789,40.405,0.003,1.262,9688
+34,3,SS,97,Erik Strelnieks,2017 Acura NSX,BFGoodrich,49.227,0.821,40.415,0.011,1.272,9685
+35,1,SSP,89,Eric Stemler,2003 Chevy Corvette Z06,Hoosier,47.392,0.853,40.425,0.010,1.282,9683
+36,2,STX,82,Raymond Dsouza,2014 Subaru BRZ,Bridgestone,49.624,0.815,40.444,0.018,1.301,9678
+37,3,BS,197,David Marcus,2017 BMWM2,Bridgestone,49.951,0.810,40.460,0.017,1.317,9674
+38,2,FS,42,Jeremy Anderson,2011 BMWE90 M3,Bridgestone,50.413,0.803,40.482,0.021,1.339,9669
+39,1,JA,89,Mason Herrick,2006 CRG Kart Santana,MG,47.303,0.856,40.491,0.010,1.348,9667
+40,3,ES,196,Joey Green,2003 Toyota MR2,BFGoodrich,51.339,0.789,40.506,0.015,1.364,9663
+41,2,STS,99,Gerry Terranova,1992 Mazda Miata,Yokohama,49.948,0.811,40.508,0.001,1.365,9663
+42,1,AS,84,David Green,2008 Chevy Corvette Z06,Bridgestone,49.601,0.817,40.524,0.016,1.381,9659
+43,6,STR,192,Marcus Pyne,2017 Mazda Miata,Bridgestone,49.038,0.827,40.554,0.030,1.412,9652
+44,2,AS,142,Ryan Clark,2015 Porsche Cayman,Multi,49.646,0.817,40.561,0.006,1.418,9650
+45,2,SSP,189,Joe Tharpe,2003 Chevy Corvette,Hoosier,47.566,0.853,40.574,0.013,1.431,9647
+46,4,FM,135,Gary Kramar,2007 Zink F500,Hoosier,44.757,0.907,40.595,0.021,1.452,9642
+47,5,FM,88,Dan Wheeler,2020 DoofWagon,Hoosier,44.871,0.907,40.698,0.103,1.555,9618
+48,1,SSM,96,Eric Anderson,1996 Mazda Miata,Hoosier,46.538,0.875,40.721,0.023,1.578,9613
+49,3,SSP,94,Alek Tziortzis,2002 Chevy Corvette Z06,Hoosier,47.764,0.853,40.743,0.022,1.600,9607
+50,2,DM,97,Bob Tunnell,2002 Locost 7,Hoosier,45.523,0.895,40.743,0.000,1.600,9607
+51,4,ES,99,Matt Waldbaum,1999 Mazda Miata,BFGoodrich,51.682,0.789,40.777,0.034,1.634,9599
+52,1,CS,155,Darrin DiSimo,2019 Mazda Miata,Bridgestone,50.420,0.809,40.790,0.013,1.647,9596
+53,2,CS,55,Paul Frey,2019 Mazda MX-5,Bridgestone,50.444,0.809,40.809,0.019,1.666,9592
+54,3,STX,160,Marlon Tecson,2013 Scion FR-S,Bridgestone,50.096,0.815,40.828,0.019,1.685,9587
+55,1,HS,85,Cameron Goode,2010 Honda Accord,Bridgestone,52.391,0.780,40.865,0.037,1.722,9579
+56,3,STS,197,Andrew Canak,1993 Toyota MR2,BFGoodrich,50.390,0.811,40.866,0.001,1.723,9578
+57,3,AS,70,Dan Simms,2009 Chevy Corvette Z06,BFGoodrich,50.034,0.817,40.878,0.011,1.735,9576
+58,4,SS,88,Walter Lunsmann,2015 Porsche GT3,Bridgestone,49.793,0.821,40.880,0.002,1.737,9575
+59,4,AS,93,Eric Jones,2016 Porsche Cayman S,Bridgestone,50.038,0.817,40.881,0.001,1.738,9575
+60,1,SSC,23,Jimmy Vajdak,2013 Scion FRS,Falken,51.044,0.801,40.886,0.005,1.743,9574
+61,4,STS,173,Emanuel Martin,1990 Mazda Miata,BFGoodrich,50.434,0.811,40.902,0.016,1.759,9570
+62,4,BS,11,KJ Christopher,2018 Camaro SS 1LE,Multi,50.501,0.810,40.906,0.004,1.763,9569
+63,1,CSPL,98,Katie Lacey,2001 Mazda Miata,Hoosier,47.735,0.857,40.909,0.003,1.766,9568
+64,5,BS,187,Jason Bucki,2016 BMWM2,Multi,50.512,0.810,40.915,0.006,1.772,9567
+65,2,EM,78,Jason Minehart,2014 Stalker M-Spec AXR,Avon,45.773,0.894,40.921,0.006,1.778,9565
+66,1,STU,184,Kai Jones,2002 BMWM3,Bridgestone,49.436,0.828,40.933,0.012,1.790,9563
+67,2,HS,8,Peter Ling,2017 Honda Civic,BFGoodrich,52.481,0.780,40.935,0.002,1.792,9562
+68,5,SS,188,Rachel Baker,2015 Porsche GT3,Bridgestone,49.869,0.821,40.942,0.007,1.800,9560
+69,3,KM,133,Michael Burns,2014 Honda TonyKart,MG,44.056,0.930,40.972,0.030,1.829,9554
+70,4,STX,108,Bart Hockerman,2013 Subaru BRZ,BFGoodrich,50.297,0.815,40.992,0.020,1.849,9549
+71,3,FS,123,Justin Eckles,2015 Ford Mustang GT,Bridgestone,51.051,0.803,40.994,0.002,1.851,9548
+72,2,JA,98,Conner Herrick,2010 CRG Kart Black Star,MG,47.907,0.856,41.008,0.014,1.865,9545
+73,2,GS,75,Aaron Hall,2017 Volkswagen GTI,Bridgestone,52.050,0.788,41.015,0.007,1.873,9543
+74,5,STS,184,Andrew Clark,1988 Honda CRX Si,BFGoodrich,50.575,0.811,41.016,0.001,1.873,9543
+75,6,FM,99,Matt Murphy,1999 Novakar J9,Hoosier,45.238,0.907,41.031,0.015,1.888,9540
+76,5,AS,59,Chris Sparks,2002 Chevy Corvette Z06,Bridgestone,50.225,0.817,41.034,0.003,1.891,9539
+77,5,STX,78,Teddie Alexandrova,2013 Scion FRS,BFGoodrich,50.388,0.815,41.066,0.032,1.923,9532
+78,4,SSP,159,Ryan Johnson,2006 Lotus Elise,Hoosier,48.152,0.853,41.074,0.007,1.931,9530
+79,3,JA,82,Carter Heaton,2006 Tony Kart,MG,47.990,0.856,41.079,0.006,1.937,9529
+80,1,XP,199,Fred Zust,2005 Lotus Elise,Multi,46.424,0.885,41.085,0.006,1.942,9527
+81,5,ES,191,Brian Tefft Jr.,2003 Toyota Mr2 spyder,BFGoodrich,52.094,0.789,41.102,0.017,1.959,9523
+82,6,STS,73,Adam Deffenbaugh,1990 Mazda Miata,BFGoodrich,50.684,0.811,41.105,0.003,1.962,9523
+83,6,ES,81,Sean Minehart,2003 MR2 Spyder,Multi,52.098,0.789,41.105,0.001,1.962,9523
+84,7,STR,117,Austin Clark,2016 Mazda MX5,Bridgestone,49.705,0.827,41.106,0.001,1.963,9522
+85,1,FP,195,Shawn Lambert,2004 Mazda Miata,Hoosier,47.654,0.863,41.125,0.019,1.983,9518
+86,6,AS,72,Andrew Francis,2004 Chevy Corvette Z06,Bridgestone,50.350,0.817,41.136,0.011,1.993,9515
+87,8,STR,39,Trevor Blackwell,2010 Mazda Miata,Bridgestone,49.747,0.827,41.141,0.005,1.998,9514
+88,6,SS,96,Monty Pack,2018 Porsche GT3,Bridgestone,50.113,0.821,41.143,0.002,2.000,9514
+89,7,STS,17,Mark McKnight,1988 Honda CRX,Bridgestone,50.738,0.811,41.149,0.006,2.006,9513
+90,7,FM,65,Radlee Bien,2002 Red devil,Hoosier,45.376,0.907,41.156,0.008,2.013,9511
+91,8,STS,16,Mike Snyder,1988 Honda CRX Si,Bridgestone,50.749,0.811,41.157,0.001,2.015,9511
+92,3,HS,197,Russell Blume,2019 Honda Civic sport,Bridgestone,52.781,0.780,41.169,0.012,2.026,9508
+93,3,CS,179,Ricky Crow,2019 Mazda MX-5,BFGoodrich,50.889,0.809,41.169,0.000,2.026,9508
+94,9,STS,84,Riley Heaton,1988 Honda CRX Si,BFGoodrich,50.777,0.811,41.180,0.011,2.037,9505
+95,10,STS,95,Will Hornseth,1988 Honda CRX Si,Bridgestone,50.787,0.811,41.188,0.008,2.045,9503
+96,6,STX,178,Kate Fisher,2013 Scion FRS,BFGoodrich,50.542,0.815,41.192,0.003,2.049,9503
+97,3,GS,43,Brad McCann,2010 Genesis Coupe,BFGoodrich,52.274,0.788,41.192,0.000,2.049,9503
+98,2,SSC,51,Matt McCabe,2013 Scion FR-S,Falken,51.433,0.801,41.198,0.006,2.055,9501
+99,11,STS,83,Jay McKoskey,1990 Mazda Miata,Bridgestone,50.811,0.811,41.208,0.010,2.065,9499
+100,2,STU,97,Matt Ales,2003 BMWM3,Bridgestone,49.775,0.828,41.214,0.006,2.071,9498
+101,3,SSR,41,Shelly Monfort,2018 Chevy Corvette GS,Hoosier,48.899,0.843,41.222,0.008,2.079,9496
+102,12,STS,97,Chris Bailey,1993 Toyota MR2,BFGoodrich,50.844,0.811,41.234,0.013,2.092,9493
+103,4,GS,91,Mike Herrick,2017 Honda Civic Si,Multi,52.330,0.788,41.236,0.002,2.093,9492
+104,6,BS,98,Paul Brown,2008 Porsche Cayman S,Multi,50.909,0.810,41.236,0.000,2.093,9492
+105,5,GS,199,Lance Keeley,2018 Honda civic si,Multi,52.334,0.788,41.239,0.003,2.096,9492
+106,8,FM,188,Brad Smith,2020 DoofWagon,Hoosier,45.469,0.907,41.240,0.001,2.097,9491
+107,2,XP,96,Jason Collett,1990 Mazda,Hoosier,46.617,0.885,41.256,0.016,2.113,9488
+108,3,DS,199,Clyde Caplan,2017 Chevy Camaro,Bridgestone,51.574,0.800,41.259,0.003,2.116,9487
+109,7,BS,180,Kerry Emmert,2011 BMW1M,Multi,50.939,0.810,41.261,0.001,2.118,9487
+110,1,CAMT,72,Keith Lamming,1968 Chevy Camaro,BFGoodrich,50.819,0.812,41.265,0.004,2.122,9486
+111,5,SSP,59,Kevin Schultz,2006 Lotus Elise,Hoosier,48.381,0.853,41.269,0.004,2.126,9485
+112,4,HS,36,Greg Reno,2010 Mini Cooper,Bridgestone,52.911,0.780,41.271,0.002,2.128,9484
+113,4,CSP,198,Neal Tovsen,2001 Mazda Miata,Hoosier,48.174,0.857,41.285,0.015,2.142,9481
+114,2,FP,95,Adam Norton,1999 Mazda Miata,Hoosier,47.842,0.863,41.288,0.003,2.145,9481
+115,1,CAMC,123,Rusty Henderson,2011 Chevy Camaro SS,BFGoodrich,50.360,0.820,41.295,0.008,2.152,9479
+116,9,FM,169,Glen Barnhouse,2010 Lucifer F500,Hoosier,45.542,0.907,41.307,0.011,2.164,9476
+117,6,SSP,87,Ambrose Fung,2014 Porsche GT3,Hoosier,48.434,0.853,41.314,0.008,2.171,9474
+118,9,STR,75,Jen Fox,2016 Mazda MX-5 Miata,Multi,49.966,0.827,41.322,0.008,2.179,9473
+119,3,XP,13,John Hunter,1993 Mazda RX7,Hoosier,46.711,0.885,41.339,0.017,2.196,9469
+120,3,EM,199,Mark Sawatsky,1969 MG,Hoosier,46.265,0.894,41.361,0.022,2.218,9464
+121,4,XP,113,David Hedderick,1993 Mazda RX7,Hoosier,46.737,0.885,41.362,0.001,2.219,9463
+122,2,ESP,46,Nicole Wong,2017 Chevy Camaro SS,Hoosier,49.478,0.836,41.364,0.001,2.221,9463
+123,7,ES,96,James Green,2003 Totota MR2,BFGoodrich,52.450,0.789,41.383,0.019,2.240,9459
+124,4,KM,168,Scott Boito,2008 Intrepid Mod Honda,MG,44.504,0.930,41.389,0.006,2.246,9457
+125,4,DS,94,Steven Umholtz,2016 Ford Focus RS,Bridgestone,51.737,0.800,41.390,0.001,2.247,9457
+126,3,SSC,94,Tom Zickuhr,2014 Scion FR-S,Falken,51.688,0.801,41.402,0.012,2.259,9454
+127,7,AS,195,Greg Janulis,2014 Porsche Cayman S,Multi,50.692,0.817,41.415,0.013,2.272,9451
+128,3,FP,58,David Colletti,2004 Mazda RX8,Hoosier,47.993,0.863,41.418,0.003,2.275,9451
+129,8,BS,97,Laura Campbell,2017 BMWM2,Bridgestone,51.147,0.810,41.429,0.011,2.286,9448
+130,4,SSC,196,Chris Hammond,2016 Scion FR-S,Falken,51.726,0.801,41.433,0.003,2.290,9447
+131,10,STR,196,Tracy Ramsey,2016 Mazda MX-5 Miata,Multi,50.136,0.827,41.462,0.030,2.320,9441
+132,3,STU,45,Mark Hill,2006 Mitsubitshi Evo9,Bridgestone,50.089,0.828,41.474,0.011,2.331,9438
+133,5,SSC,84,David Spratte,2016 Scion FR-S,Falken,51.787,0.801,41.481,0.008,2.338,9436
+134,7,STX,87,Eric Niemi,2013 Subaru BRZ,BFGoodrich,50.908,0.815,41.490,0.009,2.347,9434
+135,5,XP,86,Christopher Dorsey,1987 Toyota Corolla GTS,Avon,46.908,0.885,41.514,0.024,2.371,9429
+136,8,AS,159,Dennis Sparks,2002 Chevy Corvette Z06,Bridgestone,50.813,0.817,41.514,0.001,2.371,9429
+137,5,CSP,79,Bob Davis,1999 Mazda Miata,Multi,48.455,0.857,41.526,0.012,2.383,9426
+138,6,SSC,169,Kevin Dietz,2013 Scion FRS,Falken,51.869,0.801,41.547,0.021,2.404,9421
+139,1,FML,88,Andrea Albin,2020 Doof Wagon,Hoosier,45.815,0.907,41.554,0.007,2.411,9420
+140,2,CAMT,95,Chris Cargill,1985 Chevy Camaro,BFGoodrich,51.177,0.812,41.556,0.002,2.413,9419
+141,4,EM,99,Briget Sawatsky,1969 MG,Hoosier,46.484,0.894,41.557,0.001,2.414,9419
+142,7,SSP,144,Jess Driggers,McLaren 720s,Hoosier,48.741,0.853,41.576,0.019,2.433,9415
+143,6,GS,23,Matthew Dodson,2019 Honda Civic Si,Bridgestone,52.784,0.788,41.594,0.018,2.451,9411
+144,8,ES,53,Mike Robinson,1999 Mazda Miata,Multi,52.725,0.789,41.600,0.006,2.457,9409
+145,1,CM,83,Sue Eckles,1983 Reynard FF,Hoosier,46.695,0.891,41.605,0.005,2.462,9408
+146,2,CAMC,66,Brandon Nelson,2012 Ford Mustang,Bridgestone,50.753,0.820,41.617,0.012,2.475,9405
+147,9,ES,127,Jesse Shapiro,2003 MR2 Spyder,Multi,52.750,0.789,41.620,0.002,2.477,9405
+148,8,SSP,44,Jonathan Kuo,2018 McLaren 720s,Hoosier,48.803,0.853,41.629,0.009,2.486,9403
+149,3,CAMC,27,Robert Stanley,2017 Ford Mustang GT,Bridgestone,50.781,0.820,41.640,0.011,2.498,9400
+150,11,STR,1,Bob Bailey,2006 Mazda MX-5,Bridgestone,50.357,0.827,41.645,0.005,2.502,9399
+151,7,GS,61,Todd Freeman,2017 Honda Civic Si,Bridgestone,52.874,0.788,41.665,0.019,2.522,9395
+152,3,SM,194,Ryan Pemberton,2006 Evolution IX,Hoosier,48.747,0.855,41.679,0.014,2.536,9392
+153,4,CS,74,Jed Peterson,2019 Mazda MX-5,Bridgestone,51.531,0.809,41.689,0.010,2.546,9389
+154,4,STU,71,John Powell,2005 Subaru WRX STi,Bridgestone,50.360,0.828,41.698,0.010,2.555,9387
+155,7,SSC,48,Kevin Buchholz,2013 Scion FR-S,Falken,52.074,0.801,41.711,0.013,2.568,9384
+156,8,STX,187,Peter Modjeski,2013 Subaru BRZ,BFGoodrich,51.183,0.815,41.714,0.003,2.571,9384
+157,10,ES,95,George Schmitt,1999 Mazda Miata,Multi,52.876,0.789,41.719,0.005,2.576,9382
+158,12,STR,141,Ryan Leach,2016 Mazda Mx5,BFGoodrich,50.447,0.827,41.720,0.001,2.577,9382
+159,4,SM,86,Jason West,1986 Toyota Corolla GTS,Hoosier,48.829,0.855,41.749,0.029,2.606,9376
+160,9,AS,90,William Damhoff,2003 Chevy Corvette Z06,Multi,51.109,0.817,41.756,0.007,2.613,9374
+161,5,HS,97,Laney Blume,2019 Civic hatchback,Bridgestone,53.578,0.780,41.791,0.035,2.648,9366
+162,3,DM,199,Jeff Ellerby,1965 Lotus Elan,Hoosier,46.696,0.895,41.793,0.002,2.650,9366
+163,8,SSC,46,G H Sharp,2016 Scion FRS,Falken,52.199,0.801,41.811,0.018,2.669,9362
+164,9,SSC,99,Eric Davis,2013 Scion FRS,Falken,52.233,0.801,41.839,0.027,2.696,9356
+165,10,SSC,96,Sean Greer,2016 Scion FRS,Falken,52.267,0.801,41.866,0.027,2.723,9350
+166,13,STR,41,Nick Babin,2016 Mazda Miata,BFGoodrich,50.624,0.827,41.866,0.000,2.723,9350
+167,14,STR,193,Ryan Davies,2017 Mazda MX5,Bridgestone,50.661,0.827,41.897,0.031,2.754,9343
+168,15,STR,139,Alan Claffie,2010 Mazda MX-5,Bridgestone,50.663,0.827,41.898,0.002,2.755,9342
+169,8,GS,123,Jeffrey Tattershall,2019 Honda Civic Si,Bridgestone,53.192,0.788,41.915,0.017,2.772,9339
+170,4,FS,99,Denise Cashmore,2011 BMWM3,Bridgestone,52.202,0.803,41.918,0.003,2.775,9338
+171,6,XP,99,Alexandra Zust,2005 Lotus Elise,Multi,47.373,0.885,41.925,0.007,2.782,9336
+172,9,STX,60,Tj Tiu,2013 Scion FR-S,Bridgestone,51.452,0.815,41.933,0.008,2.790,9335
+173,11,SSC,89,Stephen Rife,2016 Scion FRS,Falken,52.372,0.801,41.950,0.017,2.807,9331
+174,4,CAMC,95,Robert Gosda,2013 Ford Mustang,BFGoodrich,51.176,0.820,41.964,0.014,2.821,9328
+175,11,ES,180,Pax Rolfe,2000 Mazda Miata,Bridgestone,53.188,0.789,41.965,0.001,2.822,9327
+176,12,ES,27,Joe Brennan,2003 MR2 Spyder,Multi,53.223,0.789,41.993,0.028,2.850,9321
+177,10,FM,35,Phillip Penner,2007 Zink F500,Hoosier,46.319,0.907,42.011,0.018,2.868,9317
+178,5,FS,23,Christopher Jepsen,2015 Mustang GT/PP,Bridgestone,52.320,0.803,42.013,0.002,2.870,9317
+179,1,CP,43,Chris Miller,1979 Mustang Turbo,Hoosier,49.545,0.848,42.014,0.001,2.871,9317
+180,12,SSC,86,Suraj Pradhan,2016 Scion FR-S,Falken,52.490,0.801,42.044,0.030,2.902,9310
+181,10,STX,8,Andre Piernot,2013 Subaru BRZ,BFGoodrich,51.640,0.815,42.087,0.042,2.944,9301
+182,5,DS,23,Matthew Grainger,2018 Honda Civic Type R,BFGoodrich,52.628,0.800,42.102,0.016,2.960,9297
+183,5,CAMC,23,Jon Nwanagu,2014 Chevy Camaro,BFGoodrich,51.345,0.820,42.103,0.000,2.960,9297
+184,9,GS,99,Sam Karp,2018 Honda Civic Si,Multi,53.448,0.788,42.117,0.014,2.974,9294
+185,11,FM,96,Jeff Blumenthal,1995 KBS Mk7,Hoosier,46.454,0.907,42.134,0.017,2.991,9290
+186,2,BM,193,Marshall Moore,1977 LeGrand Mk 18,Avon,43.891,0.960,42.135,0.002,2.992,9290
+187,5,CS,174,Mike Cavanaugh,2019 Mazda MX-5,Bridgestone,52.093,0.809,42.143,0.008,3.000,9288
+188,13,ES,80,Nick Hudec,Paxda Miata,Bridgestone,53.427,0.789,42.154,0.011,3.011,9286
+189,4,SSR,63,Frank Wietharn,2007 Chevy Corvette Z06,Hoosier,50.013,0.843,42.161,0.007,3.018,9284
+190,5,STU,84,Justin Metz,2002 BMWM3,Bridgestone,50.923,0.828,42.164,0.003,3.021,9283
+191,5,SM,94,Jon Simmons,2006 Evolution IX SE,Hoosier,49.316,0.855,42.165,0.001,3.022,9283
+192,1,CAMS,95,Eric Brown,2002 Chevy Corvette Z06,BFGoodrich,50.639,0.833,42.182,0.017,3.039,9279
+193,6,DS,9,Kyle Greene,2018 Honda Civic Type R,Bridgestone,52.729,0.800,42.183,0.001,3.040,9279
+194,11,STX,98,Jason Wright,2015 Subaru BRZ,Bridgestone,51.764,0.815,42.188,0.004,3.045,9278
+195,2,CAMS,99,Steve Waters,2017 Chevy Corvette,BFGoodrich,50.657,0.833,42.197,0.010,3.054,9276
+196,2,SSM,194,Thomas Thompson,1994 Mazda RX7,Hoosier,48.259,0.875,42.227,0.029,3.084,9270
+197,3,CAMT,195,Wayne Atkins,1985 Chevy Camaro,BFGoodrich,52.005,0.812,42.228,0.001,3.085,9269
+198,10,AS,97,Andy Seipos,2016 Chevy Corvette Z51,Bridgestone,51.687,0.817,42.228,0.000,3.085,9269
+199,10,GS,87,Raymond Pieterick,2013 Ford Focus ST,Bridgestone,53.590,0.788,42.229,0.001,3.086,9269
+200,6,CAMC,76,Cody Grissom,2017 Camaro SS 1LE,Bridgestone,51.501,0.820,42.231,0.002,3.088,9269
+201,2,CP,29,Dave Zitzlsperger,1981 Chevy Camaro,Hoosier,49.803,0.848,42.233,0.002,3.090,9268
+202,6,SM,108,Brent Schneekloth,2005 Evolution VIII,Hoosier,49.396,0.855,42.234,0.001,3.091,9268
+203,6,HS,77,Rachel Leach,2007 Honda Civic Si,BFGoodrich,54.166,0.780,42.249,0.016,3.107,9265
+204,11,AS,192,Martin Montagno,2002 Chevy Corvette Z06,Bridgestone,51.717,0.817,42.253,0.003,3.110,9264
+205,4,CAMT,172,Patrick Darling,1968 Chevy Camaro,BFGoodrich,52.042,0.812,42.258,0.005,3.115,9263
+206,13,STS,183,Dave Salas,1990 Mazda Miata,Bridgestone,52.111,0.811,42.262,0.004,3.119,9262
+207,6,STU,65,Todd Hesskamp,2004 BMWM3,Bridgestone,51.053,0.828,42.272,0.010,3.129,9260
+208,14,ES,153,David Robinson,1999 Mazda miata,Multi,53.603,0.789,42.293,0.021,3.150,9255
+209,6,CS,66,Todd Reznicek,2016 Mazda Miata,Bridgestone,52.352,0.809,42.353,0.060,3.210,9242
+210,12,AS,42,Wayne Dyck,2015 Porsche Cayman,Multi,51.857,0.817,42.367,0.014,3.224,9239
+211,16,STR,52,David Thompson,2001 Honda S2000,Bridgestone,51.238,0.827,42.374,0.007,3.231,9238
+212,13,SSC,151,Dan Costello,2013 Scion FR-S,Falken,52.911,0.801,42.382,0.008,3.239,9236
+213,7,CS,79,Federico Del Toro,2019 Mazda mx5,BFGoodrich,52.424,0.809,42.411,0.029,3.268,9229
+214,5,KM,58,Dana Gill,KGB/Honda Pacemaker,MG,45.607,0.930,42.415,0.003,3.272,9229
+215,1,BSL,98,Meredith Brown,2008 Porsche Cayman S,BFGoodrich,52.367,0.810,42.417,0.003,3.274,9228
+216,9,BS,72,James Harrison,2007 Porsche Cayman S,Bridgestone,52.424,0.810,42.463,0.046,3.321,9218
+217,7,DS,32,Gus Jacob,2013 Scion FR-S,Bridgestone,53.107,0.800,42.486,0.022,3.343,9213
+218,8,DS,83,Luke McKee,2013 Scion FR-S,Bridgestone,53.112,0.800,42.490,0.004,3.347,9212
+219,9,DS,99,Jordan Towns,2017 Chevy Camaro,Bridgestone,53.117,0.800,42.494,0.004,3.351,9211
+220,6,FS,94,Donald Knop,2007 Ford Shelby GT,Bridgestone,52.953,0.803,42.521,0.028,3.378,9205
+221,6,KM,68,Kieran Boito,2008 Intrepid Mod Honda,MG,45.771,0.930,42.567,0.046,3.424,9196
+222,3,CAMS,90,Clay Turner,2006 Factory Five Cobra,Bridgestone,51.115,0.833,42.579,0.012,3.436,9193
+223,7,STU,83,Paul Kolatorowicz,2016 Ford Focus,Bridgestone,51.460,0.828,42.609,0.030,3.466,9187
+224,11,GS,49,Tony Mitera,2017 Ford Focus ST,Bridgestone,54.093,0.788,42.625,0.016,3.482,9183
+225,13,AS,88,James King,2004 Chevy Corvette Z06,BFGoodrich,52.177,0.817,42.629,0.003,3.486,9182
+226,8,STU,88,Brendan Sobers,2014 Nissan 370Z,BFGoodrich,51.488,0.828,42.632,0.003,3.489,9182
+227,1,GSL,76,Melanie Dorsey,2014 Ford Focus ST,Bridgestone,54.104,0.788,42.634,0.002,3.491,9181
+228,7,SM,8,Jeff Corey,2005 Mitsubishi Evo,Hoosier,49.881,0.855,42.648,0.014,3.505,9178
+229,3,CP,91,Mark Madarash,1988 Pontiac Trans-am,Hoosier,50.294,0.848,42.649,0.001,3.506,9178
+230,15,ES,73,Mike White,1999 Mazda Miata,Bridgestone,54.068,0.789,42.660,0.010,3.517,9176
+231,6,CSP,91,Bob Neff,1990 Mazda Miata,Hoosier,49.798,0.857,42.677,0.017,3.534,9172
+232,7,CSP,191,Steve Eberlein,1990 Mazda Miata,Hoosier,49.804,0.857,42.682,0.005,3.539,9171
+233,14,AS,85,Tom DeYoung,2007 Chevy Corvette Z06,BFGoodrich,52.270,0.817,42.705,0.023,3.562,9166
+234,17,STR,93,Michelle Knoll,2017 Mazda Miata,Bridgestone,51.660,0.827,42.723,0.018,3.580,9162
+235,7,FS,92,John LaRandeau,2016 Ford Mustang GT,Bridgestone,53.283,0.803,42.786,0.063,3.643,9148
+236,4,DM,197,Patty Tunnell,2002 Locost 7,Hoosier,47.807,0.895,42.787,0.001,3.644,9148
+237,1,EP,39,Robert Chrismas,1989 Honda Civic Si,Avon,50.399,0.849,42.789,0.001,3.646,9148
+238,1,ASL,92,Donna Marx,2002 Chevy Corvette Z06,Bridgestone,52.418,0.817,42.826,0.037,3.683,9140
+239,9,STU,95,Steve McLaughlin,2007 Nissan 350Z,Bridgestone,51.727,0.828,42.830,0.004,3.687,9139
+240,15,AS,65,David Finchum,2004 Chevy Corvette Z06,Bridgestone,52.437,0.817,42.841,0.011,3.698,9137
+241,4,JA,31,Alexander Hesskamp,Margay Kart Margay,MG,50.058,0.856,42.850,0.009,3.707,9135
+242,1,STH,89,Julie Heaton,2016 Subaru WRX,BFGoodrich,52.746,0.813,42.882,0.033,3.740,9128
+243,16,AS,94,Alex Dalgleish,2013 Chevy 427,Bridgestone,52.503,0.817,42.895,0.012,3.752,9125
+244,5,CAMT,89,John Williams,1989 Ford Mustang 5.0,Bridgestone,52.834,0.812,42.901,0.006,3.758,9124
+245,7,CAMC,172,Robert Lewis,1998 Mustang Cobra,BFGoodrich,52.328,0.820,42.909,0.008,3.766,9122
+246,6,CAMT,41,Andrew Chenoweth,1970 Dodge Challenger,BFGoodrich,52.975,0.812,43.016,0.107,3.873,9100
+247,10,DS,86,Steve Ducharme,2006 Lancer Evo RS,BFGoodrich,53.828,0.800,43.062,0.047,3.920,9090
+248,3,ESP,19,Mark Walker,2002 Chevy Camaro Z-28,Hoosier,51.526,0.836,43.076,0.013,3.933,9087
+249,17,AS,92,Keath Marx,2002 Chevy Corvette Z06,Bridgestone,52.726,0.817,43.077,0.001,3.934,9087
+250,8,CAMC,39,Dave Whitworth,2012 Ford Mustang,Bridgestone,52.563,0.820,43.102,0.025,3.959,9082
+251,10,STU,165,Bob Buxbaum,2004 BMWM3,Bridgestone,52.186,0.828,43.210,0.108,4.067,9059
+252,18,STR,92,Steve Mitchell,2017 Mazda MX-5,Bridgestone,52.265,0.827,43.223,0.013,4.080,9056
+253,1,CSL,96,Jodi Fordahl,2006 Mazda MX-5,BFGoodrich,53.434,0.809,43.228,0.005,4.085,9055
+254,16,ES,91,Brian Tefft Sr,2003 MR2 Spyder,BFGoodrich,54.815,0.789,43.249,0.021,4.106,9051
+255,19,STR,96,Charlie Mathews,2016 Mazda Miata MX-5,Multi,52.331,0.827,43.278,0.029,4.135,9045
+256,2,GSL,23,Chelsea Tattershall,2019 Honda Civic Si,Bridgestone,54.945,0.788,43.297,0.019,4.154,9041
+257,7,HS,84,Eric Fredricks,2015 Fiat 500 Abarth,Bridgestone,55.554,0.780,43.332,0.035,4.189,9033
+258,4,FP,13,fCrissy Weaver,1993 Mazda RX7,Hoosier,50.226,0.863,43.345,0.013,4.202,9031
+259,7,KM,59,Tim Brueske,2005 Honda Intrepid,MG,46.633,0.930,43.369,0.024,4.226,9026
+260,14,SSC,69,Malcolm Lawson,2013 Scion FR-S,Falken,54.185,0.801,43.402,0.033,4.259,9019
+261,8,HS,11,Hans Villanueva,2018 Ford Fiesta ST,Bridgestone,55.684,0.780,43.434,0.031,4.291,9012
+262,10,BS,77,Randy Puls,1995 Chevy Corvette,Dunlop,53.625,0.810,43.436,0.003,4.293,9012
+263,18,AS,95,Jeff Janulis,2014 Porsche Cayman S,Multi,53.201,0.817,43.465,0.029,4.322,9006
+264,12,GS,9,Thomas Simon,2014 Ford Focus ST,Bridgestone,55.186,0.788,43.487,0.021,4.344,9001
+265,12,FM,69,Angela Barnhouse,2010 Lucifer F500,Hoosier,47.981,0.907,43.519,0.032,4.376,8994
+266,7,XP,196,Randall Wilcox,1996 Mazda Miata,Hoosier,49.279,0.885,43.612,0.093,4.469,8975
+267,7,CAMT,65,Jeremy Salenius,1965 Ford Mustang,BFGoodrich,53.991,0.812,43.841,0.229,4.698,8928
+268,4,CP,27,Bob Ely,1969 Ford Mustang,Avon,51.726,0.848,43.864,0.023,4.721,8924
+269,11,DS,69,Brian Strack,2018 Volkswagen Golf R,Bridgestone,54.897,0.800,43.918,0.054,4.775,8913
+270,14,STS,192,Ryan Lutze,1991 Toyota MR2,BFGoodrich,54.162,0.811,43.925,0.008,4.782,8911
+271,13,FM,29,Chris Thomas,Red Devil,Hoosier,48.639,0.907,44.116,0.190,4.973,8873
+272,11,STU,188,Dan Griffith,2014 Nissan 370Z,BFGoodrich,53.294,0.828,44.127,0.012,4.985,8870
+273,1,JB,90,Max Knop,2007 CRG Kart,MG,53.728,0.822,44.164,0.037,5.022,8863
+274,3,SSM,94,James Lockard,1994 Mazda RX7,Hoosier,50.519,0.875,44.204,0.040,5.061,8855
+275,2,CSPL,91,Sharon Eberlein,1990 Mazda Miata,Hoosier,51.641,0.857,44.256,0.052,5.113,8845
+276,5,CP,49,Albert Hermans,2011 Mustang Cobra,Hoosier,52.249,0.848,44.307,0.051,5.164,8834
+277,8,CAMT,141,Kurt Chenoweth,1970 Dodge Challenger,BFGoodrich,54.660,0.812,44.384,0.077,5.241,8819
+278,9,CAMC,91,Joe Johnson,1997 Chevy Camaro,Bridgestone,54.134,0.820,44.390,0.006,5.247,8818
+279,4,CAMS,71,Vernon Jolley,2019 Chevy Corvette GS,Bridgestone,53.292,0.833,44.392,0.002,5.249,8818
+280,1,FSL,94,Kellie Knop,2007 Ford Shelby GT,Bridgestone,55.377,0.803,44.468,0.075,5.325,8803
+281,20,STR,17,Cynthia Clark,2016 Mazda MX5,Bridgestone,53.781,0.827,44.477,0.009,5.334,8801
+282,1,DSL,92,Ann LaRandeau,2008 Audi TT Quattro,Bridgestone,55.598,0.800,44.478,0.002,5.336,8800
+283,6,CP,90,Donna Bartling,1986 Ford Mustang GT,Goodyear,52.567,0.848,44.577,0.098,5.434,8781
+284,9,SSP,187,Jay Zelazo,2014 Porsche GT3,Hoosier,52.416,0.853,44.711,0.134,5.568,8755
+285,17,ES,71,Laurie Matthews,2000 Mazda Miata,Multi,56.849,0.789,44.854,0.143,5.711,8727
+286,2,CSL,196,Lori Gill,2006 Mazda MX-5 Miata,BFGoodrich,55.487,0.809,44.889,0.035,5.746,8720
+287,5,SSR,61,Chris Harrison,2008 Chevy Corvette Z06,Multi,53.268,0.843,44.905,0.016,5.762,8717
+288,15,STS,92,Paul Lutze,1991 Toyota MR2,BFGoodrich,55.432,0.811,44.955,0.050,5.812,8707
+289,10,CAMC,72,Tracy Lewis,1998 Ford Mustang,BFGoodrich,54.943,0.820,45.053,0.098,5.910,8688
+290,3,BM,85,Jeff Christianson,OMS,Hoosier,46.989,0.960,45.109,0.056,5.967,8677
+291,7,CP,34,Art Martinez,1982 Pontiac MSE TA,Hoosier,53.543,0.848,45.404,0.295,6.262,8621
+292,4,ESP,13,Kathi Van Der Werf,2011 Mustang GT500 S,Bridgestone,54.435,0.836,45.508,0.103,6.365,8601
+293,2,BSL,77,Susan Puls,1995 Chevy Corvette,Dunlop,56.217,0.810,45.536,0.028,6.393,8596
+294,5,JA,1,Jacob Stanley,Maranello,MG,53.379,0.856,45.692,0.157,6.550,8567
+295,5,ESP,39,Elizabeth Whitworth,2012 Ford Mustang,Bridgestone,54.826,0.836,45.835,0.142,6.692,8540
+296,5,FP,43,Chris Dirkschneider,Impreza 2.5RS Coupe,Hoosier,53.229,0.863,45.937,0.102,6.794,8521
+297,8,CP,190,Anthony Espinosa,1986 Ford Mustang GT,Goodyear,54.177,0.848,45.942,0.005,6.799,8520
+298,8,KM,11,Kristina Clark,1997 Renspeed RS125,MG,49.455,0.930,45.993,0.051,6.850,8511
+299,4,SSM,97,Ally Arts,2017 Mazda MX-5,Bridgestone,52.583,0.875,46.010,0.017,6.867,8507
+300,6,JA,48,Abigail Dorsey,2006 Arrow Kart AX7,MG,53.786,0.856,46.041,0.031,6.898,8502
+301,5,SSM,87,Orieta Zelazo,2014 Porsche GT3,Hoosier,52.798,0.875,46.198,0.157,7.055,8473
+302,5,DM,175,Teresa Ellerby,1994 Sprinto RC 1.4T,Hoosier,51.642,0.895,46.220,0.021,7.077,8469
+303,6,SSM,139,Kate Claffie,2010 Mazda MX-5,Bridgestone,53.136,0.875,46.494,0.274,7.351,8419
+304,7,JA,18,Darren Thomas,Margay Kart Brava,MG,54.706,0.856,46.828,0.334,7.685,8359
+305,8,CSP,16,Barbara Bielucki,1988 Honda CRX Si,Bridgestone,54.718,0.857,46.893,0.065,7.750,8347
+306,14,FM,25,Kevin McEnhill,1987 KBS Mk IV,Hoosier,51.793,0.907,46.976,0.083,7.833,8332
+307,3,BSL,90,Marcia Haynes,2001 Chevy corvette,Bridgestone,58.001,0.810,46.981,0.005,7.838,8332
+308,2,JB,99,Hudson Heaton,2006 Birel Kart,MG,58.522,0.822,48.105,1.124,8.962,8137
+309,21,STR,15,Brandon Thomas,1995 Mazda Miata,BFGoodrich,58.546,0.827,48.418,0.312,9.275,8084
+310,7,SSM,39,Maegan Contreras,1991 Toyota MR2,BFGoodrich,55.431,0.875,48.502,0.085,9.359,8070
+311,8,JA,69,Connor Barnhouse,2015 CRG JA,MG,57.514,0.856,49.232,0.730,10.089,7951
+312,15,FM,16,Tony Gentile,1992 Raamble Bee F500,Hoosier,55.581,0.907,50.412,1.180,11.269,7765
+313,5,CAMS,25,Shawn McNeil,1927 Ford Model T,BFGoodrich,64.740,0.833,53.928,3.516,14.786,7258
